@@ -10,6 +10,6 @@ import { RouterOutlet } from '@angular/router';
 export class AppComponent {
   
   data = {
-    title:'Angular Core Deep Dive'
+    title:'Angular Core Deep-Dive'
   }
 }
